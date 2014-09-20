@@ -1,0 +1,7 @@
+{
+  "name": "cs-utils-imagemodal",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "coffee -cw ./index.coffee"
+  }
+}
